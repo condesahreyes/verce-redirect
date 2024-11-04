@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "https://process-file.vercel.app/",
+        "permanent": true
+      }
+    ]
+  }
+  
